@@ -1,0 +1,12 @@
+.toolbar{
+    background: #212121;
+}
+
+.toolbar,
+.toolbar button i{
+    color: white;
+}
+
+.effect-wave {
+    background: white;
+}
